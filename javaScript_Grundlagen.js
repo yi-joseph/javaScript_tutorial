@@ -4,9 +4,9 @@ let name = "Yi";
 let alter = 33; 
 
 // Eine Funktion definieren
-function name() {
-  let name = "Yi",
+function getName() {
+  let name = "Yi";
   return name; 
 }
 
-name();
+console.log(getName());
